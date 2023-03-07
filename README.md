@@ -29,4 +29,4 @@ The time by the left hand are used to monitor time spent answering questions, it
 
 ## Copywrights
 
-code from obigabit with support from tutors and group mates
+code from obigabit with support from tutors and group mates. Was submitted before but due to poor marks, it was resubmitted after copying the first code and refacored it
