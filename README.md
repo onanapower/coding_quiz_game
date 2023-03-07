@@ -27,6 +27,6 @@ By the right hand side of the page, you will see the highscore text link to take
 
 The time by the left hand are used to monitor time spent answering questions, it automatically starts counting down once the sessions starts
 
-## Copywrights
+## Copyrights
 
-code from obigabit with support from tutors and group mates. Was submitted before but due to poor marks, it was resubmitted after copying the first code and refactored it
+code from obigabit with support from tutors and group mates. Was submitted before but due to poor marks, it was resubmitted after copying the first code and refactored it.
