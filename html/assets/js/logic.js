@@ -47,7 +47,7 @@ var questionsArray = [
   },
 
   {
-    question: "4. In which HTML element, we put the JavaScript code?",
+    question: "4. In which HTML element, do we put the JavaScript code?",
     choices: ["javascript", "js", "script", "css"],
     answer: "script",
   },
