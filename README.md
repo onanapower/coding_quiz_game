@@ -8,7 +8,12 @@ This app is made up questions with multiple choice options for each questions an
 
 ## How to Use the app
 
-![index page](First-pa)
+### First Page
+
+![index page](images/first-Page.png)
+the above is the first image you will see and it gives you the oppurtunity to start a new session
+
+### ![Question Page](images/qu)
 
 ## Copywrights
 
