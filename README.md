@@ -10,10 +10,22 @@ This app is made up questions with multiple choice options for each questions an
 
 ### First Page
 
-![index page](images/first-Page.png)
-the above is the first image you will see and it gives you the oppurtunity to start a new session
+![index page](./images/first-Page.png)
+The above is the first image you will see and it gives you the oppurtunity to start a new session
 
-### ![Question Page](images/qu)
+### Question Page
+
+![Question Page](./images/Questions.png)
+The above shows how the question will appear and while awaiting you to click the correct answer, it will the save your score while at same time your time is moving
+
+### Highscore
+
+By the right hand side of the page, you will see the highscore text link to take you to the page for displaying the retrieved scores
+![High score](./images/Highscore.png)
+
+### Timer
+
+The time by the left hand are used to monitor time spent answering questions, it automatically starts counting down once the sessions starts
 
 ## Copywrights
 
